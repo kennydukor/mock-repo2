@@ -7,8 +7,8 @@ It has been automatically created using Miro Mannino's [Contributions Importer f
 
 ## Projects
 The projects worked:
+- [Wapic Kiosk](http://kiosk.wapic.com/)
 - [Retail Portal](https://customer.wapic.com)
-- [Wapic Kiosk](https://kiosk.wapic.com)
 - [Wapx Connect](https://connect.wapic.com)
 - [Wapic Web](https://wapic.com)
 - [Wapic Ghana Web](https://ghana.wapic.com)
