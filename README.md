@@ -1,8 +1,18 @@
 **This is a mock repository.** 
 
-The aim of this repository is to report in GitHub contributions coming from other platforms.
+The aim of this repository is to report in GitHub contributions coming from Bitbucket.
+These contributions were made while I was the lead software engineer at Wapic Insurance Plc (now Coronation Insurance Plc). The repositories are therefore private and inaccessible to the public.
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
+
+## Projects
+The projects worked:
+- [Wapic Kiosk](http://kiosk.wapic.com/)
+- [Retail Portal](https://customer.wapic.com)
+- [Wapx Connect](https://connect.wapic.com)
+- [Wapic Web](https://wapic.com)
+- [Wapic Ghana Web](https://ghana.wapic.com)
+- [Wapic Middleware](https://api.wapic.com)
 
 ## Notice
 
